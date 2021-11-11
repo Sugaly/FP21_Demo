@@ -1,0 +1,1 @@
+"# FP21_Demo"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Sugaly/FP21_Demo.gitgit push -u origin main
