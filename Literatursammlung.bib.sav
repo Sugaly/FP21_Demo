@@ -1,0 +1,519 @@
+% Encoding: UTF-8
+
+@InProceedings{textileInteraction,
+  author     = {Meng, Xuanzhu and Wu, Qiong},
+  booktitle  = {HCI International 2021 - Late Breaking Papers: Multimodality, eXtended Reality, and Artificial Intelligence},
+  title      = {Design of an Interactive Device Based on e-Textile Material},
+  year       = {2021},
+  editor     = {Stephanidis, Constantine and Kurosu, Masaaki and Chen, Jessie Y. C. and Fragomeni, Gino and Streitz, Norbert and Konomi, Shin'ichi and Degen, Helmut and Ntoa, Stavroula},
+  pages      = {68--81},
+  publisher  = {Springer International Publishing},
+  comment    = {- Ziel: Interaktion mit textilen Interfaces vor allem durch die Affordanzen der Textilien gestalten, auf Elemente herkömmlicher UIs wird praktisch vollständig verzichtet
+- Prototyp einer e-Textile Lampe, die durch Interaktion mit dem Stoff das Licht steuert  
+- Schreibstil teils unangenehm und nicht klar genug, was sich auf die Qualität auswirkt},
+  groups     = {Affordances textiler UI},
+  isbn       = {978-3-030-90963-5},
+  readstatus = {read},
+}
+
+@InProceedings{soctex,
+  author     = {Kan, Viirj and Fujii, Katsuya and Amores, Judith and Zhu Jin, Chang Long and Maes, Pattie and Ishii, Hiroshi},
+  title      = {Social Textiles: Social Affordances and Icebreaking Interactions Through Wearable Social Messaging},
+  year       = {2015},
+  address    = {New York, NY, USA},
+  pages      = {619–624},
+  publisher  = {Association for Computing Machinery},
+  series     = {TEI '15},
+  comment    = {- untersucht die sozialen Affordanzen von Kleidung und e-Textiles
+- Shirts sollen in bestimmten Maße Informationen über Träger preisgeben, um Gespäche anzuregen
+- drei Use cases mit verschieden großer Preisgabe privater Informationen werden vorgestellt
+- vor allem Ansatz die Affordanzen von Texitilien und Kleidung im sozialen Kontext sind von Interesse},
+  doi        = {10.1145/2677199.2688816},
+  groups     = {Affordances textiler UI},
+  isbn       = {9781450333054},
+  keywords   = {e-textiles, computer-mediated communication (cmc), co-located / distributed collaboration, wearable computing, social media networking},
+  location   = {Stanford, California, USA},
+  numpages   = {6},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/2677199.2688816},
+}
+
+@InProceedings{niijima2018biceps,
+  author     = {Niijima, Arinobu and Isezaki, Takashi and Aoki, Ryosuke and Watanabe, Tomoki and Yamada, Tomohiro},
+  booktitle  = {Proceedings of the 2018 ACM International Symposium on Wearable Computers},
+  title      = {Biceps fatigue estimation with an E-textile headband},
+  year       = {2018},
+  pages      = {222--223},
+  comment    = {- Team versuchte die Ermüdung der Bizepsmuskeln mit einem Stirnband zu messen
+- Motivation: EMG Elektroden, die den Bewegungsablauf stören durch Messung von Stirn- und Kiefermuskeln ersetzen
+- Beispiel für Anwendung von e-Textiles im Bereich Sport und Sportmedizin},
+  groups     = {Anwendungen von E-textiles und Wearables},
+  readstatus = {read},
+}
+
+@Article{KlamkaUnobtrusive,
+  author     = {Klamka, Konstantin and Dachselt, Raimund},
+  journal    = {Re-thinking the Social Acceptability of Emerging Technologies},
+  title      = {The Future Role of Visual Feedback for Unobtrusive E-Textile Interfaces. ACM CHI 2018 Workshop:(Un) Acceptable},
+  year       = {2018},
+  comment    = {- diskutiert den Einsatz von AR für visuelles Feedback für e-Textiles
+- behandelt ebenfalls das Thema der souźialen Akzeptanz als ausschaggebenden Faktor für die Verbreitung neuer Technologien
+- neue herangehensweise an Interaktion mit e-Textiles durch stärkere Einbindung von direktem, visuellem Feedback und der Erweiterung textler UIs mit virtuellen Inhalten},
+  groups     = {textile Sensor- und Messtechnik},
+  readstatus = {read},
+}
+
+@InProceedings{techAffordance,
+  author     = {Gaver, William W.},
+  booktitle  = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+  title      = {Technology Affordances},
+  year       = {1991},
+  address    = {New York, NY, USA},
+  pages      = {79–84},
+  publisher  = {Association for Computing Machinery},
+  series     = {CHI '91},
+  comment    = {- betrachtet Affordanzen im Kontext von Technik und GUIs
+- vor allem die Begriffe sequentielle und verschachlte Affordanzen sind nützlich
+- meint Affordanzen die zeitkich oder räumlich miteinander verschachtelt sind},
+  doi        = {10.1145/108844.108856},
+  groups     = {Affordances textiler UI},
+  isbn       = {0897913833},
+  location   = {New Orleans, Louisiana, USA},
+  numpages   = {6},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/108844.108856},
+}
+
+@Article{designAffordance,
+  author     = {Norman, Don},
+  journal    = {Unpublished article, available online at: http://www. jnd. org/dn. mss/affordances-and-design. html},
+  title      = {Affordances and design},
+  year       = {2004},
+  comment    = {- geht auf die Bedeutung von Affordanzen im Bereich Design ein
+- Ziel ist es für den Begriff zu erklären und von z.B. kulturellen Konventionen u.ä. klar abzugrenzen
+- Paper hat gut Qualität
+- wichtig für theoretische Grundlagen im Gebiet Affordanzen},
+  groups     = {Affordances textiler UI},
+  publisher  = {Citeseer},
+  readstatus = {read},
+}
+
+@Article{origGibson,
+  author     = {Gibson, James J},
+  journal    = {Hilldale, USA},
+  title      = {The theory of affordances},
+  year       = {1977},
+  number     = {2},
+  pages      = {67--82},
+  volume     = {1},
+  comment    = {- erster Artikel, der das Konzept von Affordanzen behandelt
+- beschreibt wie unser instinktives Verständnis von Naturgesetzen wie der Shcwerkraft bestimmt, wie wir mit unserer Umwelt interagieren
+- Affordanzen werden vor den Eigenschaften eines Objekts wahrgenommen auch wenn sie weitestgehend von diesen bestimmt werden
+- dient zur Klärung des Begriffs und als fundament für die weitere Arbeit mit Affordanzen},
+  groups     = {Affordances textiler UI},
+  readstatus = {read},
+}
+
+@InProceedings{SmartSleeve,
+  author     = {Parzer, Patrick and Sharma, Adwait and Vogl, Anita and Steimle, J\"{u}rgen and Olwal, Alex and Haller, Michael},
+  title      = {SmartSleeve: Real-Time Sensing of Surface and Deformation Gestures on Flexible, Interactive Textiles, Using a Hybrid Gesture Detection Pipeline},
+  year       = {2017},
+  address    = {New York, NY, USA},
+  pages      = {565–577},
+  publisher  = {Association for Computing Machinery},
+  series     = {UIST '17},
+  comment    = {- Ärmel als e-Textile Interface für Surface Gestures und Deformation Gestures
+- gesamter Ärmel kann für Eingaben genutzt werden, unterschiedliche Stellen können dabei verschiedenen Funktionen zugeordnet werden
+- Vereinigung verschiedener Ansätze zur Interaktion mit e-Textiles},
+  doi        = {10.1145/3126594.3126652},
+  groups     = {Anwendungen von E-textiles und Wearables, Affordances textiler UI},
+  isbn       = {9781450349819},
+  keywords   = {surface gestures, smart textile, deformation gestures},
+  location   = {Qu\'{e}bec City, QC, Canada},
+  numpages   = {13},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/3126594.3126652},
+}
+
+@InProceedings{10.1145/2851581.2892529,
+  author     = {Hamdan, Nur Al-huda and Heller, Florian and Wacharamanotham, Chat and Thar, Jan and Borchers, Jan},
+  booktitle  = {Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems},
+  title      = {Grabrics: A Foldable Two-Dimensional Textile Input Controller},
+  year       = {2016},
+  address    = {New York, NY, USA},
+  pages      = {2497–2503},
+  publisher  = {Association for Computing Machinery},
+  series     = {CHI EA '16},
+  abstract   = {Textile interfaces can be ubiquitously integrated into the fabrics that already surround us. So far, existing interfaces transfer concepts, such as buttons and sliders, to the textile domain without leveraging the affordances and qualities of fabric. This paper presents Grabrics, a two-dimensional textile sensor that is manipulated by grabbing a fold and moving it between your fingers. Grabrics can be integrated invisibly into everyday clothing or into textile objects, like a living room sofa, while minimizing accidental activation. We describe the construction and the fold-based interaction technique of our Grabrics sensor. A preliminary study shows that Grabrics can be folded and manipulated from any arbitrary position, and it can detect 2D stroke gestures.},
+  comment    = {- zweidimensionales UI, dass das Bewegen einer Stofffalte zur Steuerung anderer Geräte nutzt
+- Entwicklung neuer Interaktionstechnik, die durch die Affordanzen von Textilien inspiriert wurde
+- Kontrast zur Herangehensweise von z.B. "Exploring Affordances of Surface Gestures on Textile User Interfaces" von Mlakar et al},
+  doi        = {10.1145/2851581.2892529},
+  groups     = {Affordances textiler UI},
+  isbn       = {9781450340823},
+  keywords   = {input controller, fabric, ubiquitous interface, foldable user interface, wearable, electronic textile},
+  location   = {San Jose, California, USA},
+  numpages   = {7},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/2851581.2892529},
+}
+
+@InProceedings{10.1145/1978942.1979137,
+  author     = {Karrer, Thorsten and Wittenhagen, Moritz and Lichtschlag, Leonhard and Heller, Florian and Borchers, Jan},
+  booktitle  = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+  title      = {Pinstripe: Eyes-Free Continuous Input on Interactive Clothing},
+  year       = {2011},
+  address    = {New York, NY, USA},
+  pages      = {1313–1322},
+  publisher  = {Association for Computing Machinery},
+  series     = {CHI '11},
+  abstract   = {We present Pinstripe, a textile user interface element for eyes-free, continuous value input on smart garments that uses pinching and rolling a piece of cloth between your fingers. The input granularity can be controlled in a natural way by varying the amount of cloth pinched. Pinstripe input elements physically consist of fields of parallel conductive lines sewn onto the fabric. This way, they can be invisible, and can be included across large areas of a garment. Pinstripe also addresses several problems previously identified in the placement and operation of textile UI elements on smart clothing. Two user studies evaluate ideal placement and orientation of Pinstripe elements on the users' garments as well as acceptance and perceived ease of use of this novel textile input technique.},
+  comment    = {- Interaktion mit textilem UI durch das Rollen von Stofffalten zwischen den Fingern (größe der Falte bestimmt dabei den Detailgrad)
+- Evaluation zur Eignung verschiedener Körperstellen für diese Modalität
+- In Ergänzung (bzw. als Vorgänger von) "Grabrics" von Hamdan et al.},
+  doi        = {10.1145/1978942.1979137},
+  groups     = {Affordances textiler UI},
+  isbn       = {9781450302289},
+  keywords   = {continuous input, smart textiles, eyes-free interaction, wearable computing},
+  location   = {Vancouver, BC, Canada},
+  numpages   = {10},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/1978942.1979137},
+}
+
+@InProceedings{10.1145/3313831.3376692,
+  author     = {Mlakar, Sara and Haller, Michael},
+  booktitle  = {Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems},
+  title      = {Design Investigation of Embroidered Interactive Elements on Non-Wearable Textile Interfaces},
+  year       = {2020},
+  address    = {New York, NY, USA},
+  pages      = {1–10},
+  publisher  = {Association for Computing Machinery},
+  series     = {CHI '20},
+  abstract   = {As smart textiles are becoming more present in our lives, investigating and designing textile interfaces has started getting more and more attention. Still, very little research has been done on how to design interactive elements for non-wearable textile interfaces for the best recognition, perception, and interaction. In this paper, we present initial assumptions for designing such interfaces, which we derived from working intensively with our partners from the industry. These have been further explored with experts from the field during interviews, and finally tested in a user study. As a conclusion of the study, we define five design recommendations for textile interfaces and present several prototypes that demonstrate them in practice. Our recommendations cover tactile contrast between textures, heights, and shapes; minimal recognizable size of elements; perception of concave and convex shapes as interactive elements; indication of interaction through shape; and recognition of tactile symbols.},
+  comment    = {- Affordanzen von textilen Interfaces werden vor allem dahingehend untersucht, wie sie den Aufbau herkömmlicher Interfaces unterstützen können (textile Buttons, Slider, etc)
+- durch interviews mit Experten und Evaluation durch potenzielle Nutzer werden fünf Designempfehlungen abgeleitet (z.B. Kontrast bei der Oberflächenstruktur von Bedienelement und umgebenden Flächen)
+- dient als Ergänzung zu "Exploring Affordances of Surface Gestures on Textile User Interfaces" von Mlakar et al.},
+  doi        = {10.1145/3313831.3376692},
+  groups     = {Affordances textiler UI},
+  isbn       = {9781450367080},
+  keywords   = {embroidery, user study, smart textiles, non-wearables, design recommendations, expert interviews, textile interfaces},
+  location   = {Honolulu, HI, USA},
+  numpages   = {10},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/3313831.3376692},
+}
+
+@InProceedings{10.1145/1935701.1935765,
+  author     = {Lepinski, Julian and Vertegaal, Roel},
+  booktitle  = {Proceedings of the Fifth International Conference on Tangible, Embedded, and Embodied Interaction},
+  title      = {Cloth Displays: Interacting with Drapable Textile Screens},
+  year       = {2010},
+  address    = {New York, NY, USA},
+  pages      = {285–288},
+  publisher  = {Association for Computing Machinery},
+  series     = {TEI '11},
+  abstract   = {In this paper, we present a user interface for a textile computer display. It allows users to interact in ways that flow from the natural properties of cloth, with an interface that physically conforms to the shape of the object on which a task is performed. While recent work on flexible interfaces has shown promising results, physical properties such as the rigidity of the display remain a barrier to interaction scenarios that are truly physically flexible. We discuss interaction techniques for our cloth user interface, which include gestures such as pinching, draping, stretching and squeezing. Our interaction techniques employ the unique physical characteristics of cloth, including flexibility and shape-taking. We reflect on the system and examine potential directions for future work.},
+  comment    = {- Textilen werden als interaktives Display genutz, unter anderem um die Eigenschaften und Interaktionsmöglichkeiten anderer Gegenstände zu erweitern
+- Fokus liegt auf Interaktionen, die durch die Affordanzen des Textils naheliegen
+Interessanter Punkt: 
+- die Anpassungsfähigkeit von Textilien ermöglicht es die Form darunterliegender Objekte anzunehmen und in gewissem Maße die Affordanzen des Objekts zu übernehmen
+- Gestensteuerung interassant, Umsetzung des Gesamtkonzepts allerdings noch ausbaufähig},
+  doi        = {10.1145/1935701.1935765},
+  groups     = {textile Sensor- und Messtechnik, Affordances textiler UI},
+  isbn       = {9781450304788},
+  keywords   = {organic user interface, flexible displays, textile user interface},
+  location   = {Funchal, Portugal},
+  numpages   = {4},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/1935701.1935765},
+}
+
+@InBook{Gowrishankar2017,
+  author     = {Gowrishankar, Ramyah and Bredies, Katharina and Ylirisku, Salu},
+  editor     = {Schneegass, Stefan and Amft, Oliver},
+  pages      = {233--257},
+  publisher  = {Springer International Publishing},
+  title      = {A Strategy for Material-Specific e-Textile Interaction Design},
+  year       = {2017},
+  address    = {Cham},
+  isbn       = {978-3-319-50124-6},
+  abstract   = {The interaction design of electronic textile (or e-Textile) products is often characterised by conventions adopted from electronic devices rather than developing interactions that are specific to e-Textiles. We argue that textile materials feature a vast potential for the design of novel digital interactions. In particular, the shape-reformation capabilities of textiles may inform the design of expressive and aesthetically rewarding applications. In this chapter, we propose ways in which the textileness of e-Textiles can be better harnessed. We outline an e-Textile Interaction Design strategy that is based on defining the material specificity of e-Textiles as its ability to deform in ways that match the expectations we have of textile materials. It embraces an open-ended exploration of interactions related to textiles (e.g., stretching, folding, turning inside out) and their potential for electronic recognisability for deriving material-specific concepts and applications for e-Textiles.},
+  booktitle  = {Smart Textiles: Fundamentals, Design, and Interaction},
+  comment    = {- untersuchen Textilen auf Eigenschaften und Affordanzen, um daraus neue Interaktionsmöglichkeiten abzuleiten
+- 4 unterschiedliche Prototypen, um Design solcher Interaktionen auszuprobieren
+- Paper hat gute Qualität und zeigt innovative Herangehenweise an das Design textiler Interfaces},
+  doi        = {10.1007/978-3-319-50124-6_11},
+  groups     = {textile Sensor- und Messtechnik},
+  readstatus = {read},
+  url        = {https://doi.org/10.1007/978-3-319-50124-6_11},
+}
+
+@InProceedings{10.1145/2493988.2494331,
+  author     = {Profita, Halley P. and Clawson, James and Gilliland, Scott and Zeagler, Clint and Starner, Thad and Budd, Jim and Do, Ellen Yi-Luen},
+  booktitle  = {Proceedings of the 2013 International Symposium on Wearable Computers},
+  title      = {Don't Mind Me Touching My Wrist: A Case Study of Interacting with on-Body Technology in Public},
+  year       = {2013},
+  address    = {New York, NY, USA},
+  pages      = {89–96},
+  publisher  = {Association for Computing Machinery},
+  series     = {ISWC '13},
+  abstract   = {Wearable technology, specifically e-textiles, offers the potential for interacting with electronic devices in a whole new manner. However, some may find the operation of a system that employs non-traditional on-body interactions uncomfortable to perform in a public setting, impacting how readily a new form of mobile technology may be received. Thus, it is important for interaction designers to take into consideration the implications of on-body gesture interactions when designing wearable interfaces. In this study, we explore the third-party perceptions of a user's interactions with a wearable e-textile interface. This two-prong evaluation examines the societal perceptions of a user interacting with the textile interface at different on-body locations, as well as the observer's attitudes toward on-body controller placement. We performed the study in the United States and South Korea to gain cultural insights into the perceptions of on-body technology usage.},
+  comment    = {- Studie zur Außenwahrnehmung von der Interaktion mit textilen UIs an verschiedenen Körperstellen
+- wurde in den USA und Südkorea durchgeführt, um die verschiedenen sozialen Normen unterschiedlicher Kulturen zu berücksichtigen
+- könnte als Ergänzung zu "The Future Role of Visual Feedback for Unobtrusive E-Textile Interfaces" von Klamka und Dachselt verwendet werden},
+  doi        = {10.1145/2493988.2494331},
+  groups     = {textile Sensor- und Messtechnik},
+  isbn       = {9781450321273},
+  keywords   = {gesture interactions., electronic textiles, wearable technology, fashion},
+  location   = {Zurich, Switzerland},
+  numpages   = {8},
+  priority   = {prio3},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/2493988.2494331},
+}
+
+@Article{9471836,
+  author     = {Komolafe, Abiodun and Zaghari, Bahareh and Torah, Russel and Weddell, Alex S. and Khanbareh, Hamideh and Tsikriteas, Zois Michail and Vousden, Mark and Wagih, Mahmoud and Jurado, Ulises Tronco and Shi, Junjie and Yong, Sheng and Arumugam, Sasikumar and Li, Yi and Yang, Kai and Savelli, Guillaume and White, Neil M. and Beeby, Steve},
+  journal    = {IEEE Access},
+  title      = {E-Textile Technology Review–From Materials to Application},
+  year       = {2021},
+  pages      = {97152-97179},
+  volume     = {9},
+  comment    = {- detailierte Beschreibung von Materialien und Sensoren, sowie deren Funktionsweise im bereich e-Textiles
+- umfasst unter anderem Sensoren für die Messung von Druck, Dehnung, Feuchtigkeit, Licht, Gasen, Temperatur
+- vor allem die Beschreibung der Sensoren relevant},
+  doi        = {10.1109/ACCESS.2021.3094303},
+  groups     = {textile Sensor- und Messtechnik},
+  readstatus = {skimmed},
+}
+
+@Article{Castano_2014,
+  author     = {Lina M Castano and Alison B Flatau},
+  journal    = {Smart Materials and Structures},
+  title      = {Smart fabric sensors and e-textile technologies: a review},
+  year       = {2014},
+  month      = {apr},
+  number     = {5},
+  pages      = {053001},
+  volume     = {23},
+  abstract   = {This paper provides a review of recent developments in the rapidly changing and advancing field of smart fabric sensor and electronic textile technologies. It summarizes the basic principles and approaches employed when building fabric sensors as well as the most commonly used materials and techniques used in electronic textiles. This paper shows that sensing functionality can be created by intrinsic and extrinsic modifications to textile substrates depending on the level of integration into the fabric platform. The current work demonstrates that fabric sensors can be tailored to measure force, pressure, chemicals, humidity and temperature variations. Materials, connectors, fabric circuits, interconnects, encapsulation and fabrication methods associated with fabric technologies prove to be customizable and versatile but less robust than their conventional electronics counterparts. The findings of this survey suggest that a complete smart fabric system is possible through the integration of the different types of textile based functional elements. This work intends to be a starting point for standardization of smart fabric sensing techniques and e-textile fabrication methods.},
+  comment    = {- Review zu verschiedenen Technologien im Bereich e-Textiles (z.B. Sensoren, Stromversorgung, etc)
+- Sensoren werden grob nach Anwendung kategorisiert
+- zu jeder Kategorie werden verschiedene Sensoren, sowie Funktionsweise und mögliche Vor- und Nachteile beschrieben
+- Ergänzung zu "E-Textile Technology Review–From Materials to Application" von Komolafe et al.},
+  doi        = {10.1088/0964-1726/23/5/053001},
+  groups     = {textile Sensor- und Messtechnik},
+  publisher  = {{IOP} Publishing},
+  readstatus = {read},
+  url        = {https://doi.org/10.1088/0964-1726/23/5/053001},
+}
+
+@InProceedings{10.1145/3003397.3003416,
+  author     = {Searle, Kristin A. and Tofel-Grehl, Colby and Allan, Vicki},
+  booktitle  = {Proceedings of the 6th Annual Conference on Creativity and Fabrication in Education},
+  title      = {The E-Textiles Bracelet Hack: Bringing Making to Middle School Classrooms},
+  year       = {2016},
+  address    = {New York, NY, USA},
+  pages      = {107–110},
+  publisher  = {Association for Computing Machinery},
+  series     = {FabLearn '16},
+  abstract   = {In this paper, we present an electronic textiles project called the "bracelet hack" that is intended to facilitate the introduction of making activities into classrooms. The project's design significantly decreases the costs and amount of classroom time that must be spent on the construction aspects of the project while still engaging students in design challenges. To test our hypothesis that the bracelet hack would allow just as much introduction to coding as more complicated, sewn LilyPad Arduino projects, we introduced the bracelet hack in the context of a professional development workshop for middle school science teachers. We analyzed teachers' audio recorded interactions while completing the bracelet hack and found that teachers were able to learn computational concepts, practices, and perspectives through the activity.},
+  comment    = {- Workshop mit Lehrern, um diesen zu ermöglichen e-Textiles als lehrmittel einzusetzen
+- Focus auf leichte Handhabbarkeit und effizienten Umgang mit Ressourcen
+- Beispiel für den Einsatz von e-Textiles im Bereich Bildung},
+  doi        = {10.1145/3003397.3003416},
+  groups     = {Anwendungen von E-textiles und Wearables},
+  isbn       = {9781450348027},
+  keywords   = {Electronic textiles, K-12 STEM education, professional development},
+  location   = {Stanford, CA, USA},
+  numpages   = {4},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/3003397.3003416},
+}
+
+@InProceedings{10.1145/2771839.2771926,
+  author     = {Richard, Gabriela T. and Kafai, Yasmin B.},
+  booktitle  = {Proceedings of the 14th International Conference on Interaction Design and Children},
+  title      = {Making Physical and Digital Games with E-Textiles: A Workshop for Youth Making Responsive Wearable Games and Controllers},
+  year       = {2015},
+  address    = {New York, NY, USA},
+  pages      = {399–402},
+  publisher  = {Association for Computing Machinery},
+  series     = {IDC '15},
+  abstract   = {Most research on game making has focused on designing digital games, as opposed to incorporating the potential for the designs of peripherals and controllers. In this paper, we illustrate how youth created wearable and physically interactive controllers by combining digital and tangible construction kits: Scratch, ModKit, the MaKey MaKey, and the Lilypad Arduino. In an eight-session workshop, 14-15-year old youth coded and created their own Scratch games and created wearable or electronic textile-based bidirectionally responsive game controllers using sensors to activate a response on the screen, through the physical artifact, or both interfaces. We analyzed students' design of game controllers, as well as post-workshop interviews, to understand how they articulated an understanding of bidirectionally responsive design and its affordances, focusing on a case study. In the discussion we address some of the insights and challenges presented through the workshop, and offer suggestions for future work.},
+  comment    = {- Workshops mit Schülern
+- Thema ist die Gestaltung von Spielen und zugehörigen textilen Controllern mit bidirektionalem Feedback
+- Schüler arbeiteten in Teams, jedoch schaffte es nur ein Team die Aufgabenstellng komplett zu erfüllen 
+- Beispiel für die Anwendung von e-Textiles in der Bildung (vor allem mit dem Ziel Grundprinzipien der Informatik zu vermitteln und das Interesse in MINT zu erhöhen)},
+  doi        = {10.1145/2771839.2771926},
+  groups     = {Anwendungen von E-textiles und Wearables},
+  isbn       = {9781450335904},
+  keywords   = {tangible design, game design, hybrid crafting, bidirectional design, physical computing, electronic textiles},
+  location   = {Boston, Massachusetts},
+  numpages   = {4},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/2771839.2771926},
+}
+
+@InProceedings{10.1145/3064857.3079181,
+  author     = {Frans\'{e}n Waldh\"{o}r, Ebba and Vierne, Pauline and Seidler, Paul and Greinke, Berit and Bredies, Katharina},
+  booktitle  = {Proceedings of the 2017 ACM Conference Companion Publication on Designing Interactive Systems},
+  title      = {E-Textile Production of Wearable Ambient Notification Devices},
+  year       = {2017},
+  address    = {New York, NY, USA},
+  pages      = {309–312},
+  publisher  = {Association for Computing Machinery},
+  series     = {DIS '17 Companion},
+  abstract   = {Electronic textiles worn on the body provide interesting opportunities for ambient notification within assistive systems, as they can be seamlessly integrated into everyday clothing and accomodate for completely private modalities, such as thermohaptic feedback. In this paper, we present three different approaches to wearable ambient notification systems in textile for elderly users. We have constructed three interactive shawls, exploring how different outputs for ambient notification can be integrated into industrially knitted fabric. We describe the design process of the prototypes, present the challenges in constructing them and discuss their implications as ambient notification devices.},
+  comment    = {- Benachrichtigungen für Menschen mit Behinderungen (z.B. im Altenheim), ohne diese Abzulenken
+- 3 Prototypen (Schals) mit verschiedenen Feedbackarten: haptisch, visuell, haptisch+visuell
+-Beispiel für den Einsatz von e-Textiles für die Unterstützung/Therapie von Menschen mit Behinderungen},
+  doi        = {10.1145/3064857.3079181},
+  groups     = {Anwendungen von E-textiles und Wearables},
+  isbn       = {9781450349918},
+  keywords   = {electronic textile, thermohaptic, knitting, wearable, thermochromic, ambient notification},
+  location   = {Edinburgh, United Kingdom},
+  numpages   = {4},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/3064857.3079181},
+}
+
+@InProceedings{10.1145/3316782.3316785,
+  author     = {Rus, Silvia and Braun, Andreas and Kirchbuchner, Florian and Kuijper, Arjan},
+  booktitle  = {Proceedings of the 12th ACM International Conference on PErvasive Technologies Related to Assistive Environments},
+  title      = {E-Textile Capacitive Electrodes: Fabric or Thread: Designing an E-Textile Cushion for Sitting Posture Detection},
+  year       = {2019},
+  address    = {New York, NY, USA},
+  pages      = {49–52},
+  publisher  = {Association for Computing Machinery},
+  series     = {PETRA '19},
+  abstract   = {Back pain is one of the most common illnesses in Western civilizations. Office work and lack of motion can lead to deterioration over time. Many people already use seat cushions to improve their posture during work or leisure. In this work, we present an E-Textile cushion. This seat cushion is equipped with capacitive proximity sensors that track the proximity and motion of the sitting user and distinguish up to 7 postures. Giving a user immediate feedback on the posture can facilitate more healthy behavior. We evaluated a number of different electrode setups, materials, and classification methods, leading to a maximum accuracy of 97.1%.},
+  comment    = {- Fokus: Prototyp eines Sitzkissens zur Haltungskorrektur
+- betrachtet auch die Eignung von leitfähigem Garn und leitfähigem Stoff zur Herstellung kapazitiver Abstandssensoren (im Kontext des Prototypen)
+- dient vor allem als Beispiel für die Anwendung von e-Textiles im Bereich Medizin},
+  doi        = {10.1145/3316782.3316785},
+  groups     = {Anwendungen von E-textiles und Wearables},
+  isbn       = {9781450362320},
+  keywords   = {E-textiles, posture detection, smart furniture},
+  location   = {Rhodes, Greece},
+  numpages   = {4},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/3316782.3316785},
+}
+
+@InProceedings{10.1145/2634317.2634343,
+  author     = {Hughes, Dana and Profita, Halley and Correll, Nikolaus},
+  booktitle  = {Proceedings of the 2014 ACM International Symposium on Wearable Computers},
+  title      = {SwitchBack: An on-Body RF-Based Gesture Input Device},
+  year       = {2014},
+  address    = {New York, NY, USA},
+  pages      = {63–66},
+  publisher  = {Association for Computing Machinery},
+  series     = {ISWC '14},
+  abstract   = {We present SwitchBack, a novel e-textile input device that can register multiple forms of input (tapping and bi-directional swiping) with minimal calibration. The technique is based on measuring the input impedance of a 7 cm microstrip short-circuit stub consisting of a strip of conductive fabric separated from a conductive fabric ground plane (also made of conductive fabric) by a layer of denim. The input impedance is calculated by measuring the stub's reflection coefficient using a simple RF reflectometer circuit, operating at 900MHz. The input impedance of the stub is affected by the dielectric properties of the surrounding material, and changes in a predictable manner when touched. We present the theoretical formulation, device and circuit design, and experimental results. Future work is also discussed.},
+  comment    = {- Sensor für Suface Gestures, der nicht auf kapazitiver Messung basiert
+- ermöglicht kontinuierlichen Input von Slidern
+- Ergänzung zu Technologie-Reviews},
+  doi        = {10.1145/2634317.2634343},
+  groups     = {textile Sensor- und Messtechnik},
+  isbn       = {9781450329699},
+  keywords   = {RF, wearable sensors, electronic textiles},
+  location   = {Seattle, Washington},
+  numpages   = {4},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/2634317.2634343},
+}
+
+@InProceedings{10.1145/3173225.3173341,
+  author     = {Zhiglova, Yulia},
+  booktitle  = {Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction},
+  title      = {The Interactive Carpet - Smart Textile Interface for Children on Autism Spectrum Disorder},
+  year       = {2018},
+  address    = {New York, NY, USA},
+  pages      = {712–714},
+  publisher  = {Association for Computing Machinery},
+  series     = {TEI '18},
+  abstract   = {This paper discusses the socializing potential of the smart textile based interface and presents the design and future study method of the Interactive Carpet prototype, designed in cooperation with Autism Spectrum Disorder (ASD) specialists. The future exploratory study will shed a light on the potential effect on social skills of children with ASD and how its physical properties and multi-sensory feedback could promote interaction between caregiver and a child with ASD.},
+  comment    = {- Erstellung eines Spielteppichs, um die soziale Interaktion von Kindern mit Autismus zu fördern
+- entstand in zusammenarbeit mit Neurologen, um den Bedürfnissen der Kinder gerecht zu werden
+- Prototyp besteht aus Teppich und verschiedenen physischen Elementen, die zugeordnet werden sollen und visuelles, haptisches oder auditives Feedback geben
+- Beispiel für die Anwendng von e-Textiles im bereich Unterstützung/Therapie von Menschen mit Behinderungen},
+  doi        = {10.1145/3173225.3173341},
+  groups     = {Anwendungen von E-textiles und Wearables},
+  isbn       = {9781450355681},
+  keywords   = {autism, tangible interactions, smart textiles},
+  location   = {Stockholm, Sweden},
+  numpages   = {3},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/3173225.3173341},
+}
+
+@InProceedings{10.1145/3313831.3376305,
+  author    = {Aigner, Roland and Pointner, Andreas and Preindl, Thomas and Parzer, Patrick and Haller, Michael},
+  booktitle = {Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems},
+  title     = {Embroidered Resistive Pressure Sensors: A Novel Approach for Textile Interfaces},
+  year      = {2020},
+  address   = {New York, NY, USA},
+  pages     = {1–13},
+  publisher = {Association for Computing Machinery},
+  series    = {CHI '20},
+  abstract  = {We present a novel method for augmenting arbitrary fabrics with textile-based pressure sensors using an off-the-shelf embroidery machine. We apply resistive textiles and conductive yarns on top of a base fabric, to yield a flexible and versatile continuous sensing device, which is based on the widespread principle of force sensitive resistors. The patches can easily be attached to measurement and/or computing devices, e.g. for controlling accessories. In this paper, we investigate the impacts of related design and fabrication parameters, introduce five different pattern designs, and discuss their pros and cons. We present crucial insights and recommendations for design and manufacturing of embroidered pressure sensors. Our sensors show a very low activation threshold, as well as good dynamic range, signal-to-noise ratio, and part-to-part repeatability.},
+  doi       = {10.1145/3313831.3376305},
+  groups    = {textile Sensor- und Messtechnik},
+  isbn      = {9781450367080},
+  keywords  = {embroidery, embroidered force sensitive resistance, space-filling patterns, smart textiles, textile sensor},
+  location  = {Honolulu, HI, USA},
+  numpages  = {13},
+  url       = {https://doi.org/10.1145/3313831.3376305},
+}
+
+@InProceedings{10.1145/3313831.3376236,
+  author    = {Olwal, Alex and Starner, Thad and Mainini, Gowa},
+  booktitle = {Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems},
+  title     = {E-Textile Microinteractions: Augmenting Twist with Flick, Slide and Grasp Gestures for Soft Electronics},
+  year      = {2020},
+  address   = {New York, NY, USA},
+  pages     = {1–13},
+  publisher = {Association for Computing Machinery},
+  series    = {CHI '20},
+  abstract  = {E-textile microinteractions advance cord-based interfaces by enabling the simultaneous use of precise continuous control and casual discrete gestures. We leverage the recently introduced I/O Braid sensing architecture to enable a series of user studies and experiments which help design suitable interactions and a real-time gesture recognition pipeline. Informed by a gesture elicitation study with 36 participants, we developed a user-dependent classifier for eight discrete gestures with 94% accuracy for 12 participants. In a formal evaluation we show that we can enable precise manipulation with the same architecture. Our quantitative targeting experiment suggests that twisting is faster than existing headphone button controls and is comparable in speed to a capacitive touch surface. Qualitative interview feedback indicates a preference for I/O Braid's interaction over that of in-line headphone controls. Our applications demonstrate how continuous and discrete gestures can be combined to form new, integrated e-textile microinteraction techniques for real-time continuous control, discrete actions and mode switching.},
+  doi       = {10.1145/3313831.3376236},
+  groups    = {textile Sensor- und Messtechnik},
+  isbn      = {9781450367080},
+  keywords  = {microinteractions, interactive fabric, gestures, e-textile, smart textile, electronic textile, soft electronics, wearables},
+  location  = {Honolulu, HI, USA},
+  numpages  = {13},
+  url       = {https://doi.org/10.1145/3313831.3376236},
+}
+
+@InProceedings{peetz2019_bodyhub,
+  author     = {Andreas Peetz and Konstantin Klamka and Raimund Dachselt},
+  booktitle  = {The 32nd Annual ACM Symposium on User Interface Software and Technology Adjunct Proceedings},
+  title      = {BodyHub: A Reconfigurable Wearable System for Clothing},
+  year       = {2019},
+  address    = {New York, NY, USA},
+  month      = {10},
+  publisher  = {ACM},
+  comment    = {- zeigt modulares System aus Kleidungsstück mit eingearbeiteten Sockeln und Modulen, die bestimmte Funktionalitäten bieten
+- Ziel ist es auf Basis der Module ein Wearable zu erschaffen, das variabel ist, jedoch keine Fähigkeiten im Bereich e-Textiles vorraussetzt
+- mehr im Bereich Wearbles als e-Textiles
+- Beispiel für User interface zur Mediensteuerung, etc.},
+  doi        = {10.1145/3332167.3357108},
+  groups     = {Anwendungen von E-textiles und Wearables},
+  isbn       = {978-1-4503-6817-9/19/10},
+  keywords   = {Wearable, E-Textiles, Smart Fabric, Rapid Prototyping, 3D Printing, Wearable Construction Kits, Modular System},
+  location   = {New Orleans, Louisiana, USA},
+  numpages   = {3},
+  readstatus = {read},
+  url        = {https://doi.org/10.1145/3332167.3357108},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:Affordances textiler UI\;0\;1\;0xe6b3e6ff\;\;papers mit Focus auf Affordanzen im Allgemeinen oder die Affordanzen textiler User Interfaces\;;
+1 StaticGroup:Anwendungen von E-textiles und Wearables\;0\;1\;0xffe6b3ff\;\;Paper zu verschidenen Anwendungen von E-textiles und Wearables\;;
+1 StaticGroup:textile Sensor- und Messtechnik\;0\;1\;0xb3e6b3ff\;\;Paper zu textilen Sensoren und Messverfahren\;;
+}
